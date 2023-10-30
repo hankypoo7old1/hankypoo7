@@ -9,13 +9,13 @@
 <p>‎ </p>
 
 <p align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=Hankypoo7&show_icons=true&theme=gradient" /></a>
+ <img src="https://github-readme-stats.vercel.app/api?username=Hankypoo7&show_icons=true&theme=midnight-purple" /></a>
  </p>
 
 <p>‎ </p>
 
 <p align="center">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hankypoo7&show_icons=true&theme=gradient" /></a>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hankypoo7&show_icons=true&theme=midnight-purple" /></a>
  </p>
  
 <p>‎ </p>
